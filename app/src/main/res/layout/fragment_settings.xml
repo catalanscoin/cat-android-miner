@@ -20,7 +20,7 @@
         android:id="@+id/addressText"
         android:layout_width="match_parent"
         android:layout_height="30dp"
-        android:text="Wallet Address:"
+        android:text="Adreça:"
         android:layout_below="@id/statsTitle"
         android:textColor="#fff"
         android:padding="5dp"
@@ -35,7 +35,7 @@
         android:layout_below="@id/addressText"
         android:paddingLeft="15dp"
         android:paddingRight="15dp"
-        android:text="YOUR_UPX_ADDRESS_HERE"
+        android:text="YOUR_CAT_ADDRESS_HERE"
         android:layout_margin="5dp"
 
         android:textColor="#fff" />

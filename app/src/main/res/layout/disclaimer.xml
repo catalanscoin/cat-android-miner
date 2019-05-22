@@ -13,12 +13,12 @@
         android:layout_marginLeft="20dip"
         android:layout_marginRight="20dip"
         android:layout_marginTop="10dip"
-        android:text="uPlexa Android Miner is an open-source miner for Android devices, allowing you to mine UPX coins on the uPlexa network. Running this software will consume an optional amount of your CPU. Running your CPU at a high setting for a prolonged duration may result in negative effects such as: battery drainage, slow response time, overheating, and may cause permanent damage to your device. We recommend only using this software on low settings (below 50% of your threads and below 50% CPU Usage). By using this application, you assume full responsibility for any potential damage that may be caused to your device by the uPlexa Android Miner." />
+        android:text="CatalansCoin Android Miner és un miner de codi obert per a dispositius Android, que li permet guanyar monedes CAT a la xarxa de CatalansCoin. L'execució d'aquest programa li consumirà una quantitat opcional i personalitzable de la seva CPU. L'execució de la CPU a una configuració alta durant un període prolongat pot provocar efectes negatius, com l'esgotament de la bateria, el temps de resposta lent, el sobrecalfament  i el dany permanent del dispositiu. Recomanem només usar aquest programa en configuracions baixes (per sota del 50% dels seus threads). En utilitzar aquesta aplicació, vostè assumeix tota la responsabilitat per qualsevol dany potencial que pugui causar el dispositiu a través d'CatalansCoin Android Miner." />
     <CheckBox
         android:id="@+id/checkBox1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Do not show it Again." />
+        android:text="No ho mostreu de nou." />
     <Button
         android:id="@+id/button1"
         android:layout_width="match_parent"
@@ -27,7 +27,7 @@
         android:layout_marginLeft="5dip"
         android:layout_marginRight="5dip"
         android:layout_marginTop="5dip"
-        android:text="Agree" />
+        android:text="D'acord" />
     <Button
         android:id="@+id/button2"
         android:layout_width="match_parent"
@@ -36,5 +36,5 @@
         android:layout_marginLeft="5dip"
         android:layout_marginRight="5dip"
         android:layout_marginTop="5dip"
-        android:text="Exit" />
+        android:text="Sortir" />
 </LinearLayout>

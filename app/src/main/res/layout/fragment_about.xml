@@ -28,7 +28,7 @@
         android:layout_below="@id/release"
         android:id="@+id/aboutText"
         android:textColor="#ffffff"
-        android:text="@string/abouttText"
+        android:text="CatalansCoin Android Miner és un miner de codi obert per a dispositius Android, que li permet guanyar monedes CAT a la xarxa de CatalansCoin. L'execució d'aquest programa li consumirà una quantitat opcional i personalitzable de la seva CPU. L'execució de la CPU a una configuració alta durant un període prolongat pot provocar efectes negatius, com l'esgotament de la bateria, el temps de resposta lent, el sobrecalfament  i el dany permanent del dispositiu. Recomanem només usar aquest programa en configuracions baixes (per sota del 50% dels seus threads). En utilitzar aquesta aplicació, vostè assumeix tota la responsabilitat per qualsevol dany potencial que pugui causar el dispositiu a través d'CatalansCoin Android Miner."
         />
 
     <TextView
@@ -38,7 +38,7 @@
         android:layout_height="60dp"
         android:layout_below="@id/aboutText"
         android:gravity="center"
-        android:text="What is Mining?"
+        android:text="Què és minar?"
         android:textColor="#fff"
         android:textSize="26sp" />
 
@@ -48,7 +48,9 @@
         android:layout_below="@id/miningTitle"
         android:id="@+id/aboutMining"
         android:textColor="#ffffff"
-        android:text="@string/aboutMining"
+        android:text="
+La mineria CAT és el procés de l’afegit de transaccions.
+Registra a la blockchain de CatalansCoin les transaccions passades. La blockchain serveix per verificar que les transaccions van ser realitzades. Al minar blocs a la xarxa de CatalansCoin, vostè ajuda a protegir la xarxa d'atacs de spam , alhora que us donarà recompensas basades en la quantitat d'accions que el dispositiu envia."
         />
 
     <TextView
@@ -59,7 +61,7 @@
         android:textColor="#ffffff"
         android:layout_centerInParent="true"
         android:gravity="center"
-        android:text="@string/urltext"
+        android:text="http://catalanscoin.com"
         android:autoLink="web"
         android:textSize="22sp"
         android:textColorLink="#42e5f4"

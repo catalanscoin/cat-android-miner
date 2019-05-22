@@ -80,7 +80,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Mining to Address:"
+                android:text="Minant a l'adreça:"
                 android:textColor="#fff" />
 
             <CheckBox
@@ -107,7 +107,7 @@
 
                 android:paddingLeft="15dp"
                 android:paddingRight="15dp"
-                android:text="No wallet set! Update your Wallet Address under 'Settings'"
+                android:text="Introduïu la vostra adreça de CAT en configuració."
                 android:textColor="#fff" />
         </LinearLayout>
 
@@ -145,7 +145,6 @@
                 android:layout_height="wrap_content"
                 android:text=""
                 android:textColor="#fff" />
-
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -165,7 +164,6 @@
                 android:layout_height="wrap_content"
                 android:text="@string/percent"
                 android:textColor="#fff" />
-
         </LinearLayout>
 
         <LinearLayout
@@ -240,9 +238,8 @@
                 android:layout_height="45dp"
                 android:layout_marginEnd="25dp"
                 android:background="@drawable/button_selector"
-                android:text="@string/start"
+                android:text="Començar"
                 android:textColor="#ffffff"
-                app:layout_constraintBaseline_toBaselineOf="@+id/stop"
                 app:layout_constraintEnd_toStartOf="@+id/stop" />
 
 
@@ -251,7 +248,7 @@
                 android:layout_width="150dp"
                 android:layout_height="45dp"
                 android:background="@drawable/button_selector_purp"
-                android:text="@string/stop"
+                android:text="aturar"
                 android:textColor="#ffffff"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent" />
