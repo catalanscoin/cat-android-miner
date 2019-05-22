@@ -1,6 +1,8 @@
-# UPX ANDROID MINER
+# CATALANSCOIN ANDROID MINER
 
-The first optimized android miner running on a blockchain created for IoT mining (uPlexa).
+CatalansCoin android miner is a fork from upx android miner. We made a little redesign and added our catrig binaries to make It work.
+
+In our next update miner will be optimized to have best hashrate on IoT devices.
 
 # Usage
 
