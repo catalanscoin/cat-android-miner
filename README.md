@@ -6,7 +6,7 @@ In our next update miner will be optimized to have best hashrate on IoT devices.
 
 # Usage
 
-This will currently only work on devices with ARM64 architecture.
+This will currently only work on devices with ARM64 and armeabi-v7a architecture.
 
 Install and run the app, goto settings, enter your wallet address, press the start button
 to start mining or stop to stop mining.
